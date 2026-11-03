@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--
   QUICK GUIDE: WHERE TO CHANGE THINGS (search for the capitalized heading)
